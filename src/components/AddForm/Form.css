@@ -4,10 +4,9 @@ div {
 	align-items: center;
 	margin-bottom: 20px;
 	margin-left: 8px;
-	padding: 20px; /* Aggiunto spazio interno */
-	border-radius: 10px; /* Bordo arrotondato */
-	/* background-color: #333; Colore di sfondo più scuro */
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Effetto di rialzo */
+	padding: 20px; 
+	border-radius: 10px; 
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 input {
